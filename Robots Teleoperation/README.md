@@ -20,5 +20,3 @@
 
 - [x] **Collision Avoidance in UAV Tele-operation with Time Delay**
     - *This paper describes a theoretical analysis of using wave variables with a collision avoidance system for UAV tele-operation with time delay.*
-
-- [ ] ****

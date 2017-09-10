@@ -17,3 +17,19 @@
 
 - [x] **Fumagalli, M., Naldi, R., Macchelli, A., Carloni, R., Stramigioli, S. and Marconi, L., 2012, October. Modeling and control of a flying robot for contact inspection. In Intelligent Robots and Systems (IROS), 2012 IEEE/RSJ International Conference on (pp. 3532-3537). IEEE.**
     - This paper focuses on the modeling and control of a flying robot, with a quadrotor unmanned aerial vehicle and a custom-made manipulator. This is designed for remote inspection by contact of industrial plant. The manipulator design is quite different, the manipulator is placed at the outside of the safety frame. In this paper, the interaction force between manipulator and the environment is discussed. And based on this, a control strategy is designed for this aerial system. They also did indoor test for the whole system to testify their method.
+
+- [ ] **Fumagalli, M., Naldi, R., Macchelli, A., Carloni, R., Stramigioli, S. and Marconi, L., 2012, October. Modeling and control of a flying robot for contact inspection. In Intelligent Robots and Systems (IROS), 2012 IEEE/RSJ International Conference on (pp. 3532-3537). IEEE.**
+
+- [ ] **Thomas, J., Loianno, G., Sreenath, K. and Kumar, V., 2014, May. Toward image based visual servoing for aerial grasping and perching. In Robotics and Automation (ICRA), 2014 IEEE International Conference on (pp. 2113-2118). IEEE.**
+
+- [ ] **Jimenez-Cano, A.E., Heredia, G., Bejar, M., Kondak, K. and Ollero, A., 2016. Modelling and control of an aerial manipulator consisting of an autonomous helicopter equipped with a multi-link robotic arm. Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering, 230(10), pp.1860-1870.**
+
+- [ ] **Tognon, M. and Franchi, A., 2017. Position Tracking Control for an Aerial Robot Passively Tethered to an Independently Moving Platform. Vancouver**
+
+- [ ] **Ruggiero, F., Trujillo, M.A., Cano, R., Ascorbe, H., Viguria, A., Peréz, C., Lippiello, V., Ollero, A. and Siciliano, B., 2015, May. A multilayer control for multirotor UAVs equipped with a servo robot arm. In Robotics and Automation (ICRA), 2015 IEEE International Conference on (pp. 4014-4020). IEEE.**
+
+- [ ] **Munoz-Morera, J., Maza, I., Fernandez-Aguera, C.J., Caballero, F. and Ollero, A., 2015, June. Assembly planning for the construction of structures with multiple UAS equipped with robotic arms. In Unmanned Aircraft Systems (ICUAS), 2015 International Conference on (pp. 1049-1058). IEEE. Vancouver**
+
+- [ ] **Jimenez-Cano, A.E., Braga, J., Heredia, G. and Ollero, A., 2015, September. Aerial manipulator for structure inspection by contact from the underside. In Intelligent Robots and Systems (IROS), 2015 IEEE/RSJ International Conference on (pp. 1879-1884). IEEE.**
+
+- [ ] **Suarez, A., Heredia, G. and Ollero, A., 2016, October. Lightweight compliant arm with compliant finger for aerial manipulation and inspection. In Intelligent Robots and Systems (IROS), 2016 IEEE/RSJ International Conference on (pp. 4449-4454). IEEE.**
